@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/fluent-learn/static/css/main.31f78b9d.chunk.css",
-    "main.js": "/fluent-learn/static/js/main.6fd70b1f.chunk.js",
-    "main.js.map": "/fluent-learn/static/js/main.6fd70b1f.chunk.js.map",
+    "main.js": "/fluent-learn/static/js/main.57cf30fb.chunk.js",
+    "main.js.map": "/fluent-learn/static/js/main.57cf30fb.chunk.js.map",
     "runtime-main.js": "/fluent-learn/static/js/runtime-main.2dba4f3e.js",
     "runtime-main.js.map": "/fluent-learn/static/js/runtime-main.2dba4f3e.js.map",
-    "static/js/2.de0b4fbd.chunk.js": "/fluent-learn/static/js/2.de0b4fbd.chunk.js",
-    "static/js/2.de0b4fbd.chunk.js.map": "/fluent-learn/static/js/2.de0b4fbd.chunk.js.map",
+    "static/js/2.c3c95b31.chunk.js": "/fluent-learn/static/js/2.c3c95b31.chunk.js",
+    "static/js/2.c3c95b31.chunk.js.map": "/fluent-learn/static/js/2.c3c95b31.chunk.js.map",
     "static/js/3.7f885eb7.chunk.js": "/fluent-learn/static/js/3.7f885eb7.chunk.js",
     "static/js/3.7f885eb7.chunk.js.map": "/fluent-learn/static/js/3.7f885eb7.chunk.js.map",
     "index.html": "/fluent-learn/index.html",
     "static/css/main.31f78b9d.chunk.css.map": "/fluent-learn/static/css/main.31f78b9d.chunk.css.map",
-    "static/js/2.de0b4fbd.chunk.js.LICENSE.txt": "/fluent-learn/static/js/2.de0b4fbd.chunk.js.LICENSE.txt"
+    "static/js/2.c3c95b31.chunk.js.LICENSE.txt": "/fluent-learn/static/js/2.c3c95b31.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2dba4f3e.js",
-    "static/js/2.de0b4fbd.chunk.js",
+    "static/js/2.c3c95b31.chunk.js",
     "static/css/main.31f78b9d.chunk.css",
-    "static/js/main.6fd70b1f.chunk.js"
+    "static/js/main.57cf30fb.chunk.js"
   ]
 }
