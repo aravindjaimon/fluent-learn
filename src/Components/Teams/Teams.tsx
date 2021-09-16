@@ -6,7 +6,7 @@ import Sidebar from "./Sidebar";
 
 const Teams = () => {
   return (
-    <Stack>
+    <Stack verticalFill>
       <Stack.Item>
         <Header />
       </Stack.Item>

@@ -24,7 +24,7 @@ const Sidebar = () => {
           paddingTop: 10,
           backgroundColor: "#33344A",
           width: 75,
-          height: "96.3vh",
+          minHeight: "96.3vh",
           color: "White",
           fontSize: "0.5rem",
         },
